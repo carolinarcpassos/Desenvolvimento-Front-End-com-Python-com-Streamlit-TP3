@@ -1,0 +1,24 @@
+# Ambientes virtuais de desenvolvimento
+.venv/
+venv/
+env/
+ENV/
+
+# Arquivos compilados do Python e Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Arquivos e pastas do VS Code
+.vscode/
+
+# Arquivos de dados temporários ou locais
+*.xls
+*.xlsx
+*.csv
+*.log
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
