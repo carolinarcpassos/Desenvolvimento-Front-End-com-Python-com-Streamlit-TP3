@@ -6,10 +6,13 @@ Este repositório contém o desenvolvimento de uma aplicação web interativa em
 
 ## 📂 Estrutura do Projeto
 
-├── app_tp3_carolina_ramos_da_costa_passos.py                   # Código-fonte principal com os 12 exercícios implementados
-├── .gitignore                                                  # Configuração para ignorar arquivos de sistema e ambientes virtuais (.venv/)
-├── requirements.txt                                            # Bibliotecas e dependências do projeto para replicação do ambiente
-└── README.md                                                   # Documentação do projeto (este arquivo)
+├── app_tp3_carolina_ramos_da_costa_passos.py      # Código-fonte principal com os 12 exercícios implementados
+
+├── .gitignore                                     # Configuração para ignorar arquivos de sistema e ambientes virtuais (.venv/)
+
+├── requirements.txt                               # Bibliotecas e dependências do projeto para replicação do ambiente
+
+└── README.md                                      # Documentação do projeto (este arquivo)
 
 ---
 
